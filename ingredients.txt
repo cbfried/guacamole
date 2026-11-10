@@ -4,3 +4,6 @@ Ingredients
  2. onion
  3. tomato
  4. cumin
+ 5. salt
+ 6. lime juice
+ 7. cilantro
